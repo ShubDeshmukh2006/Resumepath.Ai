@@ -1,6 +1,7 @@
 
 import numpy as np
-import nltk as nlp
+import nltk as  nlp
+
 
 class SubjectiveTest:
 
