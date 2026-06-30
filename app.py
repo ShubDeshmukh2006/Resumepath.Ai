@@ -12,6 +12,7 @@ app.secret_key= 'aica2'
 # nltk.download("all")
 # exit()
 
+
 from PyPDF2 import PdfFileReader, PdfReader
 from flask import Flask, request
 
@@ -62,7 +63,7 @@ def gen():
 def generate():
     if request.method == "POST":
     
-        name = request.form['Name']
+        name = request.form['Name]
         email = request.form['Email']
         linkedin = request.form['LinkedIn']
         experience = request.form['Experience']
