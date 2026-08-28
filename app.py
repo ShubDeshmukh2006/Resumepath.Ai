@@ -118,7 +118,6 @@ def generate():
 
         <h2>Achievements</h2>
         <p>{achievements}</p>
-
         <hr style="height: 2px; background-color: #000; border: none; margin-top: 20px; margin-bottom: 20px;">
 
         <h2>Courses</h2>
