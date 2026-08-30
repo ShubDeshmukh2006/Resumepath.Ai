@@ -189,6 +189,4 @@ This project does not currently include a license. Before distributing or using 
 
 For issues, questions, or suggestions, please open a GitHub issue or contact the project maintainer.
 
----
 
-**Last Updated**: June 2026 | **Status**: Active Development
